@@ -30,3 +30,5 @@ This is an Open Download PDF Files with Ionic project.
 *OBS.:
 
     **As funcionalidades desse projeto só funciona nativo(plataforma iOS).
+
+    **Tutorial: https://www.youtube.com/watch?v=kM4cCQn8Bz4
