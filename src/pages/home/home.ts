@@ -20,7 +20,7 @@ export class HomePage {
       title: 'My PDF'
     };
 
-    this.document.viewDocument('assets/PDF/pedfComprovantePagamentoContasGVT.pdf', 'application/pdf', {})
+    this.document.viewDocument('assets/PDF/pedfComprovantePagamentoContasGVT.pdf', 'application/pdf', options)
   }
 
   downloadAndOpenPdf() {
